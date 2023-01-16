@@ -48,7 +48,7 @@ function cellclick () {
 			if(cell[i].innerHTML == '') draw = false;
 		}
 		if(draw) {
-			restart("Ничья)"; 
+			restart("Ничья"); 
 		}
 	}
 
